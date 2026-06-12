@@ -1,4 +1,4 @@
-# goku ⚡
+# goku phase 1 ⚡
 
 A blazing-fast CLI tool for converting configuration files between **JSON** and **YAML** formats, built with Go and [Cobra](https://github.com/spf13/cobra).
 
