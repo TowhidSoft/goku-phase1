@@ -1,0 +1,13 @@
+app:
+  name: goku
+  version: 1.0.0
+  debug: false
+
+server:
+  host: 0.0.0.0
+  port: 8080
+  timeout: 30
+
+database:
+  url: postgres://localhost:5432/goku
+  pool_size: 10
